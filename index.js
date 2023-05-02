@@ -3,11 +3,6 @@ const inquirer = require('inquirer');
 const utils = require('./utils/createLogo.js');
 
 
-
-
-
-
-
 const questions = [
     "Enter logo text (Will only accept up to 3 chars)",
     "Enter a text color (hexadecimal number, or color keyword",
