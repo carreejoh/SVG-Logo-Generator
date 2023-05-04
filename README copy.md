@@ -38,3 +38,9 @@ Contact Me:
 Carreejoh4637@mailbox.org 
 
 https://github.com/Carreejoh
+
+# Screenshots/Video
+[SVG logo maker video.webm](https://user-images.githubusercontent.com/122936256/236299971-b07f7d11-e309-4732-ab30-de02e55d5a35.webm)
+![image](https://user-images.githubusercontent.com/122936256/236300106-4a834f4d-3512-451d-9272-5b922685e4ec.png)
+
+
